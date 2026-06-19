@@ -1,4 +1,4 @@
-# Hey there, I'm Dimos Mossoras! 👨‍💻
+# Hey there, I'm Dimos! 👨‍💻
 
 19y/o developer & math student, passionate about data, algorithms, and creating cool stuff.
 
